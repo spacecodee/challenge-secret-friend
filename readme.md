@@ -33,3 +33,17 @@ amigos, listar los amigos agregados y sortear un amigo secreto de manera aleator
 1. Ingresa el nombre "Juan" y haz clic en "Añadir".
 2. Ingresa el nombre "María" y haz clic en "Añadir".
 3. Haz clic en "Sortear amigo" para ver quién es el amigo secreto.
+
+## Capturas de Pantalla
+
+- **Captura de Pantalla 1**: Vista de la aplicación web.
+  ![Captura de Pantalla 1](assets/img/img1.png)
+
+- **Captura de Pantalla 2**: Ejemplo de sorteo de amigo secreto.
+  ![Captura de Pantalla 1](assets/img/img2.png)
+
+- **Captura de Pantalla 3**: Ejemplo de sorteo de amigo secreto completo.
+  ![Captura de Pantalla 1](assets/img/img3.png)
+
+- **Captura de Pantalla 4**: Ejemplo de sorteo de amigo secreto terminado.
+  ![Captura de Pantalla 1](assets/img/img4.png)
